@@ -16,7 +16,7 @@
 
 <p align="center">
   <strong>
-    <a href="YOUR_LIVE_DEMO_URL_HERE_OR_LINK_TO_INDEX_HTML_IN_REPO" target="_blank">
+    <a href="https://darkphoenixir.github.io/EasySkins-Coin-Converter-/" target="_blank">
       🚀 Quick Launch / Try it Out! 🚀
     </a>
   </strong>
