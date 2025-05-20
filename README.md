@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://YOUR_IMAGE_HOSTING_SERVICE/YOUR_LOGO_OR_BANNER_URL.png" alt="EasySkins Coin Converter Banner" width="600"/>
+  <img src="./images/logo.png" alt="EasySkins Coin Converter Banner" width="600"/>
   <h1>EasySkins Coin Converter 💰✨</h1>
   <p>
     A simple, stylish, and customizable web-based tool to instantly convert EasySkins coins into various Steam currencies.
   </p>
   <p>
-    <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/blob/main/LICENSE.md">
+    <a href="https://darkphoenixir.github.io/EasySkins-Coin-Converter-//blob/main/LICENSE.md">
       <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/>
     </a>
     <!-- Add other badges if you have them, e.g., for build status, version -->
